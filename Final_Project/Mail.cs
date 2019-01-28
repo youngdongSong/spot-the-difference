@@ -26,8 +26,8 @@ namespace Final_Project
             const int SMTP_PORT = 587;  //네이버의 서버 포트를 SMTP_PORT변수에 저장
 
             const string MAIL_ID = "al9493@naver.com";  //보내는 사람의 이메일을 MAIL_ID변수에 저장
-            const string MAIL_ID_NAME = "al9493";   //보내는 사람의 네이버 아이디를 MAIL_ID_NAME변수에 저장
-            const string MAIL_PW = "asdf0117";  //보내는 사람의 네이버 패스워드를 MAIL_PW변수에 저장
+            const string MAIL_ID_NAME = "";   //보내는 사람의 네이버 아이디를 MAIL_ID_NAME변수에 저장, 본인 아이디 적을 것
+            const string MAIL_PW = "";  //보내는 사람의 네이버 패스워드를 MAIL_PW변수에 저장, 본인 패스워드 적을 
 
             try  //Smtp사용이 발생할 수 있는 예외를 처리 하기 위한 try
             {
