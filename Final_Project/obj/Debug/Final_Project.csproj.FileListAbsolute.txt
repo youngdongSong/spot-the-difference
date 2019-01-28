@@ -1,0 +1,16 @@
+C:\Users\sos94\OneDrive\바탕 화면\윈도우프로그래밍 프로젝트\Project\Final_Project\bin\Debug\Final_Project.exe.config
+C:\Users\sos94\OneDrive\바탕 화면\윈도우프로그래밍 프로젝트\Project\Final_Project\bin\Debug\Final_Project.exe
+C:\Users\sos94\OneDrive\바탕 화면\윈도우프로그래밍 프로젝트\Project\Final_Project\bin\Debug\Final_Project.pdb
+C:\Users\sos94\OneDrive\바탕 화면\윈도우프로그래밍 프로젝트\Project\Final_Project\obj\Debug\Final_Project.csprojResolveAssemblyReference.cache
+C:\Users\sos94\OneDrive\바탕 화면\윈도우프로그래밍 프로젝트\Project\Final_Project\obj\Debug\Final_Project.Form1.resources
+C:\Users\sos94\OneDrive\바탕 화면\윈도우프로그래밍 프로젝트\Project\Final_Project\obj\Debug\Final_Project.Properties.Resources.resources
+C:\Users\sos94\OneDrive\바탕 화면\윈도우프로그래밍 프로젝트\Project\Final_Project\obj\Debug\Final_Project.csproj.GenerateResource.Cache
+C:\Users\sos94\OneDrive\바탕 화면\윈도우프로그래밍 프로젝트\Project\Final_Project\obj\Debug\Final_Project.csproj.CoreCompileInputs.cache
+C:\Users\sos94\OneDrive\바탕 화면\윈도우프로그래밍 프로젝트\Project\Final_Project\obj\Debug\Final_Project.exe
+C:\Users\sos94\OneDrive\바탕 화면\윈도우프로그래밍 프로젝트\Project\Final_Project\obj\Debug\Final_Project.pdb
+C:\Users\sos94\OneDrive\바탕 화면\윈도우프로그래밍 프로젝트\Project\Final_Project\obj\Debug\Final_Project.Join.resources
+C:\Users\sos94\OneDrive\바탕 화면\윈도우프로그래밍 프로젝트\Project\Final_Project\obj\Debug\Final_Project.Mail.resources
+C:\Users\sos94\OneDrive\바탕 화면\윈도우프로그래밍 프로젝트\Project\Final_Project\obj\Debug\Final_Project.PwdFind.resources
+C:\Users\sos94\OneDrive\바탕 화면\윈도우프로그래밍 프로젝트\Project\Final_Project\obj\Debug\Final_Project.FindWrongPicture.resources
+C:\Users\sos94\OneDrive\바탕 화면\윈도우프로그래밍 프로젝트\Project\Final_Project\obj\Debug\Final_Project.Help.resources
+C:\Users\sos94\OneDrive\바탕 화면\윈도우프로그래밍 프로젝트\Project\Final_Project\obj\Debug\Final_Project.TimeUp.resources
